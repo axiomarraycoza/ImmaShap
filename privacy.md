@@ -1,6 +1,6 @@
 # Privacy Policy for ImmaShap
 
-**Last Updated: May 27, 2026**
+**Last Updated: July 6, 2026**
 
 This privacy policy governs your use of the software application **ImmaShap** ("Application"), developed by **Axiom Array**. ImmaShap is a wellbeing and safety utility designed to act as a silent safety net by sending automated alerts if a user misses a scheduled check-in.
 
@@ -17,6 +17,8 @@ To provide its core safety features, the Application requests and processes the 
 
 **Purpose of Collection:** This data is used strictly for the Application's core functionality: the Emergency Check-in system. If a user fails to respond to scheduled reminders, the Application uses these details to send push notification alerts to designated contacts via Firebase Cloud Messaging.
 
+**Legal Basis:** We process this information because it is necessary to provide the safety service requested by the user and because the user voluntarily provides the information required to use the Application.
+
 ---
 
 ## 2. Data Storage and Transmission
@@ -24,6 +26,7 @@ To provide its core safety features, the Application requests and processes the 
 * **Local Storage:** Check-in settings and preferences are stored locally within the Application's private sandbox on your device.
 * **Cloud Storage (Firestore):** Your name, email address, and FCM device token are stored in Google Firestore, a cloud database provided by Google Firebase. This is necessary to enable push notifications and contact management between users.
 * **Transmission:** All data transmitted between the Application and Firebase is protected using HTTPS/TLS encryption. We do not use any other backend services for data transmission.
+* **International Processing:** Your information may be processed or stored on secure servers located outside your country of residence through Google Firebase. Appropriate safeguards are used to protect your information during this processing.
 * **No Third-Party Email Services:** The Application does not use any external email delivery services (such as Brevo or SendGrid). All alerts are delivered exclusively via Firebase Cloud Messaging push notifications.
 
 ---
@@ -54,7 +57,7 @@ ImmaShap requires a Google account to use the Application. Your account is manag
 * **Control:** You can modify or remove your emergency contacts at any time within the Application's Settings menu.
 * **Sign Out:** Signing out of the Application clears all locally stored settings from your device.
 * **Full Deletion:** You can delete your account and all associated data directly from within the Application by tapping the gear icon → **Delete Account**. This permanently removes your account, all your data, and all your connections from our servers immediately. If you are unable to access the Application, contact us at the email address below and we will process your deletion request within 30 days.
-* **Retention:** Your data is retained for as long as you have an active account. Data associated with deleted connections is removed immediately upon deletion.
+* **Retention:** Your data is retained only for as long as necessary to provide the Application's services, or until your account is deleted. Data associated with deleted connections is removed immediately upon deletion.
 
 ---
 
@@ -72,13 +75,13 @@ A persistent notification is displayed while the service is running, as required
 
 ## 7. Children's Privacy
 
-ImmaShap is rated for all ages on Google Play. However, the Application requires a Google account to function. Children under the age of 13 should only use this Application under parental supervision. We do not knowingly collect personal information from children without parental consent. If you are a parent and believe your child has provided us with information without your consent, please contact us at the address below.
+ImmaShap is not designed for children and is not directed at children. The Application is intended for adult use. We do not knowingly collect personal information from children without appropriate consent. If you are a parent or guardian and believe that a child has provided us with personal information without your consent, please contact us at the address below so that we can take appropriate action.
 
 ---
 
-## 8. South African Users (POPIA Compliance)
+## 8. Privacy Rights and POPIA Compliance
 
-In accordance with the **Protection of Personal Information Act (POPIA)**, we ensure that:
+In accordance with the **Protection of Personal Information Act (POPIA)** and similar applicable privacy laws, we ensure that:
 
 * We only process personal information that is necessary to provide the safety service you have requested (data minimisation).
 * Users are responsible for obtaining consent from their emergency contacts before entering their details into the Application.
@@ -87,13 +90,25 @@ In accordance with the **Protection of Personal Information Act (POPIA)**, we en
 
 ---
 
-## 9. Changes to this Policy
+## 9. Emergency Services Disclaimer
+
+ImmaShap is designed to help you notify your chosen emergency contacts when you need assistance. It is not a substitute for emergency services, medical care, or professional assistance.
+
+If you are in immediate danger or require urgent assistance, contact your local emergency services immediately.
+
+Emergency alerts depend on factors outside ImmaShap's control, including your device, battery level, internet or network availability, and your contacts' devices. Alerts may be delayed, not delivered, or not seen in time.
+
+By using ImmaShap, you acknowledge these limitations and agree to use ImmaShap at your own risk.
+
+---
+
+## 10. Changes to this Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated Privacy Policy on this page and updating the "Last Updated" date. Continued use of the Application after changes are posted constitutes acceptance of the updated policy.
 
 ---
 
-## 10. Contact Us
+## 11. Contact Us
 
 If you have any questions regarding privacy or the data handled by ImmaShap, please contact the developer at:
 
