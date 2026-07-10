@@ -100,6 +100,10 @@ Settings → Apps →  → Battery → select "Unrestricted" or "Don't optimise"
 
 A: Tap the "I Am Safe Now" button immediately. This sends a follow-up notification to all your contacts letting them know you are safe and dismisses the alert banner on their devices.
 
+**Q: I received an emergency alert but there's no location attached. What happened?**
+
+A: Location is only ever included for manual emergency alerts, and only if the sender has granted location permission and their device managed to get a GPS fix in time — it may take up to a minute or two depending on their signal. If it hasn't arrived yet when you tap Acknowledged, you'll be asked whether you want to wait up to 5 minutes for it before dismissing. Automatic missed check-in alerts never include location.
+
 **Q: The app is not checking in automatically — I have to open it every time.**
 
 A:  does not check in automatically — you must tap the  button yourself to record a check-in. This is intentional. The app monitors whether you have checked in, not whether you are physically active.
@@ -156,7 +160,7 @@ A: Yes. Open the app → tap the gear icon → scroll down → tap **Delete Acco
 
 **Q: Does ImmaShap track my location?**
 
-A: No. ImmaShap does not access, store, or share your location at any time.
+A: No, not continuously. ImmaShap does not track or monitor your location at any time. The only exception is manual emergency alerts (long-press): if you've granted location permission, a single one-time GPS snapshot is captured at the moment you send that specific alert, so your emergency contact can find you. This never happens for automatic missed check-in alerts, and denying location permission (or having GPS off) never blocks or delays an emergency alert from being sent.
 
 ---
 

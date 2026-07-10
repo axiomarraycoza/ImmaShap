@@ -1,6 +1,6 @@
 # Terms of Service for ImmaShap
 
-**Last Updated: May 27, 2026**
+**Last Updated: July 10, 2026**
 **Effective Date: May 27, 2026**
 
 Please read these Terms of Service ("Terms") carefully before using the ImmaShap mobile application ("Application") developed by **Axiom Array** ("we", "us", "our"). By downloading, installing, or using the Application, you agree to be bound by these Terms. If you do not agree, do not use the Application.
@@ -28,7 +28,7 @@ ImmaShap is a personal safety and wellbeing application that:
 **ImmaShap is not an emergency services application.**
 
 * ImmaShap does **not** contact police, ambulance, fire services, or any other emergency response organisation.
-* ImmaShap does **not** track your location or share your location with anyone.
+* ImmaShap does not continuously track or monitor your location. For manual emergency alerts only, and solely if you grant permission, ImmaShap captures a single one-time location snapshot at the moment the alert is sent, to help your emergency contact locate you. This never applies to automatic missed check-in alerts. See our Privacy Policy for full details.
 * ImmaShap is **not** a substitute for calling emergency services. In a life-threatening situation, always contact your local emergency services directly (e.g. 112 or 10111).
 
 ---
@@ -45,6 +45,7 @@ ImmaShap relies on third-party infrastructure including Google Firebase, Firebas
 * Alerts will be received if the recipient's device is offline, has notifications disabled, or has insufficient battery.
 * The Application will function correctly on all Android devices or Android versions.
 * The Application will continue to run in the background on all devices, particularly those with aggressive battery optimisation (e.g. Huawei, Xiaomi, Samsung with battery saver enabled).
+* Location data, where captured for a manual alert, will be accurate, available, or received within any specific timeframe. GPS signal strength, device settings, and permissions are outside our control.
 
 ### 4.2 No Liability for Failed Alerts
 **To the maximum extent permitted by applicable law, Axiom Array shall not be liable for:**
